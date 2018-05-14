@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[第一次测试文档]]></title>
-    <url>%2F2018%2F01%2F01%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[这是一篇测试文章，文章样式示例详情示例文档]]></content>
-      <categories>
-        <category>待分类</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[示例文档]]></title>
     <url>%2F2018%2F01%2F01%2F%E7%A4%BA%E4%BE%8B%E6%96%87%E6%A1%A3%2F</url>
     <content type="text"><![CDATA[基础功能调试 1测试1.1代码1print(&apos;Hello,World!&apos;) 1.2公式 R_{m \times n} = U_{m \times m} S_{m \times n} V_{n \times n}]]></content>
@@ -20,6 +9,17 @@
       </categories>
       <tags>
         <tag>示例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第一次测试文档]]></title>
+    <url>%2F2018%2F01%2F01%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[这是一篇测试文章，文章样式示例详情示例文档]]></content>
+      <categories>
+        <category>待分类</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
