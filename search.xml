@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[示例文档]]></title>
     <url>%2F2018%2F01%2F01%2F%E7%A4%BA%E4%BE%8B%E6%96%87%E6%A1%A3%2F</url>
-    <content type="text"><![CDATA[基础功能调试 1.测试1.1.代码1print(&apos;Hello,World!&apos;) 1.2.公式 R_{m \times n} = U_{m \times m} S_{m \times n} V_{n \times n}]]></content>
+    <content type="text"><![CDATA[基础功能调试 1. 测试1.1. 代码1print(&apos;Hello,World!&apos;) 1.2. 公式 R_{m \times n} = U_{m \times m} S_{m \times n} V_{n \times n}]]></content>
       <categories>
         <category>待分类</category>
       </categories>
